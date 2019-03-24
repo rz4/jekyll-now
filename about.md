@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a machine learning engineer working at Lawerence Berkeley National Laboratory. I graduated in 2017 with my 
+I am currently a machine learning engineer working at Lawrence Berkeley National Laboratory. I graduated in 2017 with my 
 undergraduate degree in computer science, specialized in machine learning and parallel programming. I also have a strong 
 background programming in low level lanaguages, and working with high performance computing (HPC) systems. 
 
